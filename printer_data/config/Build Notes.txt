@@ -1,0 +1,3 @@
+This sucks.. too spoiled from auto-level..
+Use two (2) post-its when doing bed screw adjust.  Make sure the nozzle barely touches the paper.  We are looking for almost zero drag.
+Pressure Advance tuning: https://www.klipper3d.org/Pressure_Advance.html
